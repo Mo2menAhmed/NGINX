@@ -1,3 +1,6 @@
+## Add details on if you want to start the VM in root mode
+## Add details on disabling the SWAP
+
 ## Execute using 
 ## curl -s https://raw.githubusercontent.com/learnbyseven/KUBERNETES-TRAINING/master/install-K8s.sh | bash 
 
